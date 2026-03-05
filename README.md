@@ -75,6 +75,9 @@ This project expands the fuel dataset analysis and introduces **time series anal
 
 ## 1. Fuel Price Time Series (London, Ontario)
 
+### Dataset
+https://data.ontario.ca/dataset/fuels-price-survey-information
+
 ### Objective
 Analyze long-term gasoline price trends.
 
