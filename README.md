@@ -24,9 +24,9 @@ https://data.ontario.ca/dataset/fuels-price-survey-information
 - Seaborn  
 - Jupyter Notebook  
 
-## Analysis Performed
 
-### 1. Average Fuel Prices by City (2022)
+
+## 1. Average Fuel Prices by City (2022)
 
 A **bar chart** compares the mean price of Regular Unleaded Gasoline across Ontario cities during 2022.
 
@@ -40,7 +40,7 @@ This visualization highlights **regional price differences across Ontario market
 
 
 
-### 2. Distribution of Gasoline Prices in Ottawa
+## 2. Distribution of Gasoline Prices in Ottawa
 
 A **histogram** visualizes the distribution of Regular Unleaded Gasoline prices in Ottawa during 2022.
 
@@ -52,7 +52,7 @@ This analysis helps identify:
 
 
 
-### 3. ECDF of Gasoline Prices
+## 3. ECDF of Gasoline Prices
 
 An **Empirical Cumulative Distribution Function (ECDF)** plot shows the cumulative probability distribution of gasoline prices in Ottawa during 2022.
 
